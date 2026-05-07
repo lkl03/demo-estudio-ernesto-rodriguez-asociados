@@ -1,2 +1,7 @@
-# demo-estudio-ernesto-rodriguez-asociados
-Demo web para Estudio Ernesto Rodriguez &amp; Asociados — diseñada por eterlab.
+# Estudio Ernesto Rodriguez & Asociados
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
